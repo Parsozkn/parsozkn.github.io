@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pars.github.io/sitemap.xml
