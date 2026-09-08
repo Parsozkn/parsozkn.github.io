@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://parsozkn.github.io/sitemap.xml
